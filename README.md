@@ -1,2 +1,2 @@
-# TEST1
-for test
+# 撲克牌接龍遊戲
+這是用Telegram的機器人對話寫的接龍遊戲
